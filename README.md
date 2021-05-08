@@ -34,7 +34,7 @@ const me = {
             Entity Framework, LINQ, NUnit, TDD, AWS, IIS Server,
             Crystal Reports, HTML5, CSS3, Browser Extension Development,
             KineticJS, FabricJS, CanvasJS, APIDocs, Scrum, Agile Methodology], 
-  architecture: ["microservices", "event-driven", "design system pattern", 'TDD'],
+  architecture: [Microservices, Event-driven, Design System Pattern, TDD],
 }
 ```
 
