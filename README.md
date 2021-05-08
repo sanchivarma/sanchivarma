@@ -27,9 +27,9 @@ Full Stack Software Enginner (8+Yrs Exp) <img src="https://images.emojiterra.com
 *******************************************************************************/
 
 const me = {
-  backend: [Java, PHP, C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms), C/C++/VC++, Python],
+  backend: [Java SpringBoot, PHP, C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms), C/C++/VC++, Python],
   frontend: [JavaScript/jQuery, ES6, React, Angular Redux, Node, NGINX],
-  database: [TSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB],
+  database: [MS-SQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB],
   others : [REST/SOAP/MVC, GIT, GraphQL, Kubernetes, Docker Apache Kafka, Docker, Apollo Cache, Subversion (SVN), PHPUnit, NUnit, Jest,
             Entity Framework, LINQ, NUnit, TDD, AWS, IIS Server,
             Crystal Reports, HTML5, CSS3, Browser Extension Development,
