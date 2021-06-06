@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/) 
 <br>
-Full Stack Software Enginner (8+Yrs Exp) <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f469-1f3fb-1f4bb.png" width="30"> 
+Full Stack Software Enginner (8+Yrs Exp)
 
-### A little more about me.. 
+### 
 
 ```javascript
 /******************************************************************************
-                        Code, Compile, Conquer ! 
+                        Learning never ends !
 *******************************************************************************/
 
 const me = {
