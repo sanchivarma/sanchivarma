@@ -27,14 +27,18 @@ Full Stack Software Enginner (8+Yrs Exp)
 *******************************************************************************/
 
 const me = {
-  backend: [Java SpringBoot, PHP, C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms), C/C++/VC++, Python],
+  backend: [Java (EE, Spring, SpringBoot, Hibernate),
+            PHP (Laravel, Symfony, CodeIgniter, WordPress),
+            C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Azure/Crystal Reports), 
+            C/C++/VC++, Python],
   frontend: [JavaScript/jQuery, ES6, React, Angular Redux, Node, NGINX],
-  database: [MS-SQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB],
-  others : [REST/SOAP/MVC, GIT, GraphQL, Kubernetes, Docker Apache Kafka, Docker, Apollo Cache, Subversion (SVN), PHPUnit, NUnit, Jest,
-            Entity Framework, LINQ, NUnit, TDD, AWS, IIS Server,
-            Crystal Reports, HTML5, CSS3, Browser Extension Development,
-            KineticJS, FabricJS, CanvasJS, APIDocs, Scrum, Agile Methodology], 
-  architecture: [Microservices, Event-driven, Design System Pattern, TDD],
+  database: [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Eloquence],
+  others  : [REST/SOAP/MVC, GraphQL, Kubernetes, Docker Apache Kafka, Apollo Cache,
+             Subversion (SVN), Github
+             PHPUnit, NUnit, Jest, NUnit, TDD, AWS, IIS Server,
+             HTML5, CSS3, Browser Extension Development,
+             KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
+  architecture: [Microservices, Event-driven, Design Patterns, System Design],
 }
 ```
 
