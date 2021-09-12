@@ -23,22 +23,23 @@ Full Stack Software Enginner (8+Yrs Exp)
 
 ```javascript
 /******************************************************************************
-                        Learning never ends !
+                        Contemplate - Code - Conquer !
 *******************************************************************************/
 
 const me = {
-  backend: [Java (EE, Spring, SpringBoot, Hibernate),
-            PHP (Laravel, Symfony, CodeIgniter, WordPress),
-            C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Azure/Crystal Reports), 
-            C/C++/VC++, Python],
-  frontend: [JavaScript/jQuery, ES6, React, Angular Redux, Node, NGINX],
-  database: [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Eloquence],
-  others  : [REST/SOAP/MVC, GraphQL, Kubernetes, Docker Apache Kafka, Apollo Cache,
-             Subversion (SVN), Github
-             PHPUnit, NUnit, Jest, NUnit, TDD, AWS, IIS Server,
-             HTML5, CSS3, Browser Extension Development,
-             KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
-  architecture: [Microservices, Event-driven, Design Patterns, System Design],
+  backend:        [Java (Applets, EE, Spring/SpringBoot, Hibernate),
+                   PHP (Laravel, Symfony, CodeIgniter, WordPress),
+                   C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Azure/Crystal Reports), 
+                   C/C++/VC++, Python, Django],
+  frontend:       [JavaScript/jQuery, ES6, React, Angular Redux, Node, Nginx],
+  database:       [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Laravel-Eloquent],
+  microservices : [Kubernetes, Docker]
+  others  :       [REST/SOAP/MVC, GraphQL, Apache Kafka, Apollo Cache,
+                   Subversion (SVN), Github
+                   PHPUnit, NUnit, Jest, NUnit, TDD, AWS, IIS Server,
+                   HTML5, CSS3, Multi-Browser Extension Development,
+                   KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
+  architecture:   [Microservice-arch, Event-driven, Design Patterns, System Design]
 }
 ```
 
