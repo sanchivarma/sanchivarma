@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" style="max-width:100%;margin-right: 0px;margin-top: -65px;" width="220px" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
+<img align="right" alt="GIF" style="max-width:100%;margin-top: -65px;width: 156px !important;float: left;margin-right: 20px;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
 
 ### Hi there 👋
 I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/) 
