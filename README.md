@@ -43,8 +43,9 @@ const me = {
 }
 ```
 
+<!--
 <details>
-<!--   
+   
 <summary>My Github Stats :computer:</summary>
   
 
@@ -66,21 +67,18 @@ const me = {
 </a>
   ----
 </details>
-
+![Profile Views](https://komarev.com/ghpvc/?username=cosmoloc)  
 
 <details>
 <summary>
   Projects I am currently working on
 </summary>
--->
-
-![Profile Views](https://komarev.com/ghpvc/?username=cosmoloc)  
   
 <br />
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmoloc&repo=TEST-Repo)](https://github.com/cosmoloc/TEstJava) -->
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmoloc&repo=TEST-Repo)](https://github.com/cosmoloc/TEstJava)>
 <br />
 </details>
-
+-->
 ##### You've reached the end of my profile ! Here's a joke for you :
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
