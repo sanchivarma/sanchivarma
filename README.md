@@ -44,27 +44,26 @@ const me = {
 ```
 
 <details>
-  
+<!--   
 <summary>My Github Stats :computer:</summary>
   
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=cosmoloc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--a href="https://github-readme-stats.vercel.app/api?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats"/>
-</a -->
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark)](https://github.com/cosmoloc/github-readme-stats)
 <!--a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-</a-->
+</a>
+
 
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&count_private=true&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&count_private=true&theme=dark)
 
 <!-- a href="https://github.com/cosmoloc?tab=repositories">  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&count_private=true&theme=dark" alt="cosmoloc" />
-</a -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=cosmoloc)
+</a>
   ----
 </details>
 
@@ -73,7 +72,10 @@ const me = {
 <summary>
   Projects I am currently working on
 </summary>
+-->
 
+![Profile Views](https://komarev.com/ghpvc/?username=cosmoloc)  
+  
 <br />
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmoloc&repo=TEST-Repo)](https://github.com/cosmoloc/TEstJava) -->
 <br />
