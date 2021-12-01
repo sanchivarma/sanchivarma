@@ -23,7 +23,7 @@ Full Stack Software Enginner (8+Yrs Exp)
 
 ```javascript
 /******************************************************************************
-                               SANCHI VARMA
+           I know Karate, Kung-Fu and 47 other dangerous words!
 *******************************************************************************/
 
 const me = {
