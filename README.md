@@ -22,9 +22,11 @@ Full Stack Software Enginner (8+Yrs Exp)
 ### 
 
 ```javascript
-/******************************************************************************
-           I know Karate, Kung-Fu and 47 other dangerous words!
-*******************************************************************************/
+/****************************************************************************************
+             It's a very sobering feeling to be up in space and realize 
+ that one's safety factor was determined by the lowest bidder on a government contract.
+                                                                        - Alan Shephard
+*****************************************************************************************/
 
 const me = {
   backend:        [Java (Applets, EE, Spring/SpringBoot, Hibernate),
