@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/) 
 <br>
-Full Stack Software Enginner (8+Yrs Exp)
-
+Full Stack Software Development Enginner @ Wayfair
 ### 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=cosmoloc&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmoloc" /> 
+</p>
 
 ```javascript
 /****************************************************************************************
@@ -44,43 +49,32 @@ const me = {
   architecture:   [Microservice-arch, Event-driven, Design Patterns, System Design]
 }
 ```
-
-<!--
 <details>
    
-<summary>My Github Stats :computer:</summary>
-  
+<summary>My Github Stats :computer: 🚀</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=cosmoloc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--a href="https://github-readme-stats.vercel.app/api?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="My Github Stats"/>
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark)](https://github.com/cosmoloc/github-readme-stats)
-<!--a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-</a>
+![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=tokyonight" alt="mystreak"/>
+<br/>
+![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact)
 
 
-[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&count_private=true&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&count_private=true&theme=dark)
-
-<!-- a href="https://github.com/cosmoloc?tab=repositories">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&count_private=true&theme=dark" alt="cosmoloc" />
-</a>
-  ----
-</details>
-![Profile Views](https://komarev.com/ghpvc/?username=cosmoloc)  
-
-<details>
+<!-- Projects I am currently working on
 <summary>
   Projects I am currently working on
 </summary>
   
 <br />
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmoloc&repo=TEST-Repo)](https://github.com/cosmoloc/TEstJava)>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmoloc&repo=TEST-Repo)](https://github.com/cosmoloc/TEstJava)>
 <br />
 </details>
--->
+End of projects I'm Working On -->
+
+</details>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ##### You've reached the end of my profile ! Here's a joke for you :
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
