@@ -109,14 +109,7 @@ const me = {
 <br />
 </details>
 End of projects I'm Working On -->
-
 </details>
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/cosmoloc"><img alt="Github Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cosmoloc&custom_title=cosmoloc's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <!-- ## :trophy: Git profile Trophies
 
