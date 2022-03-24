@@ -94,7 +94,8 @@ const me = {
 <details>
 <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats</summary>
 ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
-<br/>
+
+	<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=tokyonight" alt="mystreak"/><br/>
 	
 ![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact)	
@@ -109,6 +110,7 @@ const me = {
 <br />
 </details>
 End of projects I'm Working On -->
+
 </details>
 
 <!-- ## :trophy: Git profile Trophies
