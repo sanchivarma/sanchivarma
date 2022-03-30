@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="centre" style="max-width:100%;margin-top: -35px;width: 256px !important;float: left;margin-right: 20px;" src="Images/itcrowd.gif">
+
 <img align="right" alt="GIF" style="max-width:100%;margin-top: -65px;width: 156px !important;float: left;margin-right: 20px;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
 
 <!-- ### Introduction -->
