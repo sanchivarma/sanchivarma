@@ -27,7 +27,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 ### 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img align="centre" src="Images/itcrowd.gif">
+<img align="centre" style="max-width: 100%;display: block;margin-left: auto;margin-right: auto;width: 50%;" src="Images/itcrowd.gif">
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=cosmoloc&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmoloc" /> 
