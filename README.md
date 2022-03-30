@@ -35,7 +35,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=cosmoloc&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmoloc" /> 
 </p>
-<img style="width: 50%;max-width: 100%;width: 60%;margin: auto;display: block;" src="Images/itcrowd.gif">
+<img style="max-width: 100%;display: block;width: 50%;margin: auto;" src="Images/itcrowd.gif">
 
 ```javascript
 /****************************************************************************************
