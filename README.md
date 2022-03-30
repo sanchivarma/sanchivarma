@@ -12,10 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" style="max-width:100%;margin-top: -65px;width: 156px !important;float: left;margin-right: 20px;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
+<!--h3 align="center">
+  Hi I'm Sanchi Varma
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3-->
+<img align="right" alt="GIF" style="width: 200px;max-width: 100%;float: right;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
-<!-- ### Introduction -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=5500&color=24F79D&multiline=true&width=800&height=100&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer+%40+Wayfair+GmbH)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/cosmoloc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&multiline=true&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer&font=Fira%20Code&center=true&color=24F79D&vCenter=true&size=15" style="max-width: 100%;height: 65px;"></a>
+</p>
 
 <!-- p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
@@ -27,11 +32,10 @@ Full Stack Software Development Enginner @ Wayfair -->
 ### 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img align="centre" style="max-width: 100%;display: block;margin-left: auto;margin-right: auto;width: 50%;" src="Images/itcrowd.gif">
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=cosmoloc&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmoloc" /> 
 </p>
+<img style="width: 50%;max-width: 100%;width: 60%;margin: auto;display: block;" src="Images/itcrowd.gif">
 
 ```javascript
 /****************************************************************************************
@@ -102,7 +106,6 @@ const me = {
 <br/>
 	
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=tokyonight" alt="mystreak"/><br/>
-	
 ![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact)	
 
 <!-- Projects I am currently working on
@@ -117,6 +120,15 @@ const me = {
 End of projects I'm Working On -->
 
 </details>
+
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=cosmoloc&theme=darkhub&no-frame=true&column=7">
+</a>
+</details>
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## :trophy: Git profile Trophies
 
