@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" style="width: 200px;max-width: 100%;float: right;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
 <p align="center">
-  <a href="https://github.com/cosmoloc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&multiline=true&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer&font=Fira%20Code&center=true&color=24F79D&vCenter=true&size=15" style="max-width: 100%;height: 65px;"></a>
+  <a href="https://github.com/cosmoloc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&multiline=true&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer&font=Fira%20Code&center=true&color=0C9622&vCenter=true&size=15" style="max-width: 100%;height: 65px;"></a>
 </p>
 
 <!-- p align="center">
