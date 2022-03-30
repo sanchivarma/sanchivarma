@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" style="max-width:100%;margin-top: -65px;width: 156px !important;float: left;margin-right: 20px;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" />
 
-### Hi there 👋
+<!-- ### Introduction -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=5500&color=24F79D&multiline=true&width=800&height=100&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer+%40+Wayfair+GmbH)](https://git.io/typing-svg)
 
 <!-- p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
 </p -->
 
 
-I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/) 
-<br>
-Full Stack Software Development Enginner @ Wayfair
+<!-- I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/)
+Full Stack Software Development Enginner @ Wayfair -->
 ### 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
