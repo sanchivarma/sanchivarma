@@ -91,11 +91,11 @@ const me = {
 </p>
 
 ## Connect with me 📩
-<p align="center">
-	<a href="mailto:emailsanchi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://sanchivarma.com"><img src="https://img.shields.io/badge/website-%23.svg" alt="Website"/></a>
-	<a href="https://www.linkedin.com/in/sanchi-varma/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/cosmoloc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="left">
+  <a href="mailto:emailsanchi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://sanchivarma.com"><img src="https://img.shields.io/badge/website-%23.svg" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/sanchi-varma/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/cosmoloc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <details>
@@ -104,12 +104,9 @@ const me = {
 	<h3> My Github Stats </h3>
 </summary>
 	
-![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
-
-<br/>
-	
+<!-- ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=tokyonight" alt="mystreak"/><br/>
-![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact)	
+![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact) -->
 
 <!-- Projects I am currently working on
 <summary>
@@ -122,8 +119,19 @@ const me = {
 </details>
 End of projects I'm Working On -->
 
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=gotham"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=gotham" alt="mystreak"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+	
 
+
+<!-- 
+[![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+
+</details>
 <!-- details>
 <summary>
 	<h4>Achievements</h4>
