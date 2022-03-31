@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" style="width: 200px;max-width: 100%;float: right;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
 <p align="center">
-  <a href="https://github.com/cosmoloc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&multiline=true&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer&font=Fira%20Code&center=true&color=24F79D&vCenter=true&size=15" style="max-width: 100%;height: 65px;"></a>
+  <a href="https://github.com/cosmoloc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&multiline=true&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer&font=Fira%20Code&center=true&color=0C9622&vCenter=true&size=15" style="max-width: 100%;height: 65px;"></a>
 </p>
 
 <!-- p align="center">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Full Stack Software Development Enginner @ Wayfair -->
 ### 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=cosmoloc&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmoloc" /> 
 </p>
@@ -70,6 +70,8 @@ const me = {
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p> -->
 
+<img  align="right" style="max-width: 100%;display: block;width: 35%;margin: auto;float: right;" src="Images/itcrowd.gif"/>
+
 ## Competitive Programming
 <p align="center">
   &emsp;
@@ -88,7 +90,6 @@ const me = {
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
-
 ## Connect with me 📩
 <p align="center">
 	<a href="mailto:emailsanchi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -98,7 +99,10 @@ const me = {
 </p>
 
 <details>
-<summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats</summary>
+<summary>
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+	<h3> My Github Stats </h3>
+</summary>
 	
 ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
 
@@ -120,22 +124,29 @@ End of projects I'm Working On -->
 
 </details>
 
-<details>
-<summary>Achievements</summary>
+<!-- details>
+<summary>
+	<h4>Achievements</h4>
+</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=cosmoloc&theme=darkhub&no-frame=true&column=7">
 </a>
-</details>
+</details -->
+<br/>
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark"/>
 
 <!-- ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmoloc&layout=compact&theme=algolia" alt="cosmoloc" /></a> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
-##### You've reached the end of my profile ! Here's a joke for you :
 
-<img  align="right" style="max-width: 100%;display: block;width: 35%;margin: auto;float: right;" src="Images/itcrowd.gif"/>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<br/>
+<h4> You've reached the end of my profile ! Here's a joke for you : </h4>
+<img  align="right" style="max-width: 100%;display: block;width: 30%;float: right;margin-top: 20px;" src="Images/gandalf_laugh.gif"/>
+<img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
