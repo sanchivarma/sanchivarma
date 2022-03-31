@@ -140,7 +140,7 @@ End of projects I'm Working On -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-<img  align="right" style="max-width: 100%;display: block;width: 30%;margin: auto;float: right;" src="Images/gandalf_laugh.gif"/>
+<img  align="right" style="max-width: 100%;display: block;width: 30%;margin: auto;float: right; margin-top: 15px;" src="Images/gandalf_laugh.gif"/>
 ##### You've reached the end of my profile ! Here's a joke for you :
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
