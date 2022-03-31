@@ -128,13 +128,19 @@ End of projects I'm Working On -->
 </a>
 </details>
 <br/>
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark"/>
 
 <!-- ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmoloc&layout=compact&theme=algolia" alt="cosmoloc" /></a> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+
+<img  align="right" style="max-width: 100%;display: block;width: 30%;margin: auto;float: right;" src="Images/gandalf_laugh.gif"/>
 ##### You've reached the end of my profile ! Here's a joke for you :
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
