@@ -104,12 +104,9 @@ const me = {
 	<h3> My Github Stats </h3>
 </summary>
 	
-![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
-
-<br/>
-	
+<!-- ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=tokyonight" alt="mystreak"/><br/>
-![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact)	
+![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact) -->
 
 <!-- Projects I am currently working on
 <summary>
@@ -122,8 +119,21 @@ const me = {
 </details>
 End of projects I'm Working On -->
 
-</details>
+	
+	
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+	
 
+
+<!-- 
+[![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+
+</details>
 <!-- details>
 <summary>
 	<h4>Achievements</h4>
