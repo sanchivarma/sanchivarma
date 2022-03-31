@@ -71,6 +71,7 @@ const me = {
 </p> -->
 
 <img  align="right" style="max-width: 100%;display: block;width: 35%;margin: auto;float: right;" src="Images/itcrowd.gif"/>
+
 ## Competitive Programming
 <p align="center">
   &emsp;
@@ -89,7 +90,6 @@ const me = {
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
-
 ## Connect with me 📩
 <p align="center">
 	<a href="mailto:emailsanchi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -99,7 +99,10 @@ const me = {
 </p>
 
 <details>
-<summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats</summary>
+<summary>
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+	<h3> My Github Stats </h3>
+</summary>
 	
 ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
 
@@ -121,12 +124,14 @@ End of projects I'm Working On -->
 
 </details>
 
-<details>
-<summary>Achievements</summary>
+<!-- details>
+<summary>
+	<h4>Achievements</h4>
+</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=cosmoloc&theme=darkhub&no-frame=true&column=7">
 </a>
-</details>
+</details -->
 <br/>
 
 
@@ -140,8 +145,8 @@ End of projects I'm Working On -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
+<br/>
+<h4> You've reached the end of my profile ! Here's a joke for you : </h4>
 <img  align="right" style="max-width: 100%;display: block;width: 30%;float: right;margin-top: 20px;" src="Images/gandalf_laugh.gif"/>
-##### You've reached the end of my profile ! Here's a joke for you :
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
