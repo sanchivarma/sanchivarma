@@ -119,10 +119,9 @@ const me = {
 </details>
 End of projects I'm Working On -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=dark" alt="mystreak"/><br/>
-<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/gruvbox/0-profile-details.svg"/>
-<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/gruvbox/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/gruvbox/2-most-commit-language.svg"/>
-<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/gruvbox/3-stats.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/gruvbox/4-productive-time.svg"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=gotham"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=gotham" alt="mystreak"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 	
 
 
