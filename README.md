@@ -152,6 +152,6 @@ End of projects I'm Working On -->
 
 <br/>
 <h4> You've reached the end of my profile ! Here's a joke for you : </h4>
-<img  align="right" style="width: 30%;max-width: 100%;-webkit-transform: scaleX(-1);transform: scaleX(-1);" src="Images/gandalf_laugh.gif"/>
+<img  align="right" style="width: 30%;max-width: 100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);" src="Images/gandalf_laugh.gif"/>
 <img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
