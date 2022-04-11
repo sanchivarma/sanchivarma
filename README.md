@@ -42,14 +42,14 @@ Full Stack Software Development Enginner @ Wayfair -->
                                                                         - Alan Shephard
 *****************************************************************************************/
 
-const me = {
+{
   backend:        [Java (Applets, EE, Spring/SpringBoot, Hibernate),
                    PHP (Laravel, Symfony, CodeIgniter, WordPress),
                    C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Azure/Crystal Reports), 
                    C/C++/VC++, Python, Django],
   frontend:       [JavaScript/jQuery, ES6, React, Angular Redux, Node, Nginx],
   database:       [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Laravel-Eloquent],
-  microservices: [Kubernetes, Docker],
+  microservices:  [Kubernetes, Docker],
   cloud:          [Google Cloud Platform (GCP), Amazon Web Services (AWS), IIS Server],
   others:         [REST/SOAP/MVC, GraphQL, Apache Kafka, Apollo Cache,
                    Subversion (SVN), Github
