@@ -97,7 +97,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 </p>
 
 ## Connect with me 📩
-<p align="left">
+<p align="center">
   <a href="mailto:emailsanchi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &emsp;
   <a href="https://sanchivarma.com"><img src="https://img.shields.io/badge/website-%23.svg" alt="Website"/></a>
