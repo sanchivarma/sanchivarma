@@ -80,15 +80,20 @@ Full Stack Software Development Enginner @ Wayfair -->
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "CodingMinutes" src="https://img.shields.io/badge/-codingminutes-orange?style=plastic&logo=codingminutes&logoColor=black" /></a>
+  <!-- a href="#"><img alt = "CodingMinutes" src="https://img.shields.io/badge/-codingminutes-orange?style=plastic&logo=codingminutes&logoColor=black"/>
+   </a-->
   &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" />
+    </a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" />
+    </a>
   &emsp;
-    <a href="#"><img alt = "Google CodeJam" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+    <a href="#"><img alt = "Google CodeJam" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" />
+    </a>
   &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+    <!-- a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" />
+    </a -->
 </p>
 
 ## Connect with me 📩
