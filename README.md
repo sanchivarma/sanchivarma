@@ -15,11 +15,12 @@
   Hi I'm Sanchi Varma
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3-->
-<img align="right" alt="GIF" style="width: 200px;max-width: 100%;float: right;" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif"/>
 
-<p align="center">
-  <a href="https://github.com/cosmoloc/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?&multiline=true&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+Full+Stack+Software+Engineer&font=Fira%20Code&center=true&color=0C9622&vCenter=true&size=15" style="max-width: 100%;height: 65px;"></a>
-</p>
+<p>
+<img align="left" src="https://readme-typing-svg.herokuapp.com?color=58F766&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 70px; margin-right: 50px">
+<img align="right" width="200px" src="Images/hello-animated.gif"/>
+	</p>
+
 
 <!-- p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
@@ -30,7 +31,10 @@
 Full Stack Software Development Enginner @ Wayfair -->
 ### 
 
+<!-- Horizontal Line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Profile Views -->
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=cosmoloc&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmoloc" /> 
 </p>
@@ -70,7 +74,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p> -->
 
-<img  align="right" style="max-width: 100%;display: block;width: 35%;margin: auto;float: right;" src="Images/itcrowd.gif"/>
+<img  align="right" width="200px" src="Images/itcrowd.gif"/>
 
 ## Competitive Programming
 <p align="center">
@@ -161,6 +165,6 @@ End of projects I'm Working On -->
 
 <br/>
 <h4> You've reached the end of my profile ! Here's a joke for you : </h4>
-<img  align="right" style="width: 30%;max-width: 100%;-webkit-transform: scaleX(-1); transform: scaleX(-1);" src="Images/gandalf_laugh.gif"/>
+<img align="right" width="200px" src="Images/gandalf_laugh.gif"/>
 <img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
