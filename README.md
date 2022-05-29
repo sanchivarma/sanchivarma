@@ -116,10 +116,13 @@ Full Stack Software Development Enginner @ Wayfair -->
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 	<h3> My Github Stats </h3>
 </summary>
+
 	
+<!-- **** Generic Github Stats
 ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=dark" alt="mystreak"/><br/>
 ![Cosmoloc's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoloc&theme=dark&layout=compact)
+-->
 
 <!-- Projects I am currently working on
 <summary>
