@@ -19,7 +19,7 @@
 <p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=58F766&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 70px; margin-right: 50px">
 	
-<img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;" width="250" align="right" />
+<img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;margin-top: 50px;" width="250" align="right" />
 </p>
 
 
@@ -114,7 +114,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 
 <details>
 <summary>
-	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />
 	<h3> My Github Stats </h3>
 </summary>
 
@@ -170,6 +170,7 @@ End of projects I'm Working On -->
 
 <br/>
 <h4> You've reached the end of my profile ! Here's a joke for you : </h4>
-<img align="right" width="200px" src="Images/gandalf_laugh.gif"/>
-<img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"  align="left" />
+<img src="Images/gandalf_laugh.gif" style="width: 300px;" width="300"  align="left"/>
+
 
