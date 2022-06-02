@@ -18,7 +18,7 @@
 
 <p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=58F766&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 70px; margin-right: 50px">
-
+	
 <img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;" width="250" align="right" />
 </p>
 
@@ -75,7 +75,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p> -->
 
-<img src="Images/itcrowd.gif" style="display: block;opacity: 1;width: 200px;" width="250" align="right" />
+<img src="Images/itcrowd.gif" style="display: block;opacity: 1;width: 200px; margin-top: 50px;" width="250" align="right" />
 
 ## Competitive Programming
 <p align="center">
@@ -160,7 +160,6 @@ End of projects I'm Working On -->
 
 <!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-*****
 <img src="https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark"/>
 
 <!-- ## :trophy: Git profile Trophies
