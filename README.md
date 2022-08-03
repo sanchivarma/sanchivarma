@@ -75,7 +75,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p> -->
 
-<img src="Images/itcrowd.gif" style="display: block;margin-top: 80px;opacity: 1;width: 200px;" width="250" align="right" />
+<img src="Images/itcrowd.gif" style="display: block;margin-top: 80px;opacity: 1;width: 200px;" width="250"  margin-top="80px" align="right" />
 
 ## Competitive Programming
 <p align="center">
