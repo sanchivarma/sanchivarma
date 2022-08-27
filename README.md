@@ -108,7 +108,7 @@ Full Stack Software Development Enginner @ Wayfair -->
   &emsp;
   <a href="https://sanchivarma.com"><img src="https://img.shields.io/badge/website-%23.svg" alt="Website"/></a>
   &emsp;
-  <a href="https://www.linkedin.com/in/sanchi-varma/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sanchivarma/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &emsp;	
   <a href="https://github.com/cosmoloc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
