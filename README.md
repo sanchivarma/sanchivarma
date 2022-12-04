@@ -113,7 +113,7 @@ Full Stack Software Development Enginner @ Wayfair -->
   <a href="https://github.com/cosmoloc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<details>
+<!--details -->
 <summary>
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />
 	<h3> My Github Stats </h3>
@@ -149,7 +149,7 @@ End of projects I'm Working On -->
 [![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmoloc/cosmoloc-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
 
-</details>
+<!-- /details -->
 <!-- details>
 <summary>
 	<h4>Achievements</h4>
