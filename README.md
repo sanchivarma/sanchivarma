@@ -163,7 +163,7 @@ End of projects I'm Working On -->
 
 <!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark"/>
+<!-- img src="https://activity-graph.herokuapp.com/graph?username=cosmoloc&theme=react-dark"/ -->
 
 <!-- ## :trophy: Git profile Trophies
 
