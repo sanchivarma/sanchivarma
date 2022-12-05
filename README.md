@@ -113,13 +113,12 @@ Full Stack Software Development Enginner @ Wayfair -->
   <a href="https://github.com/cosmoloc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<!--details -->
-<summary>
-	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />
-	<h3> My Github Stats </h3>
-</summary>
 
-	
+
+<p>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />  My Github Stats
+</p>	
+
 <!-- **** Generic Github Stats
 ![Cosmoloc's github stats](https://github-readme-stats.vercel.app/api?username=cosmoloc&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmoloc&theme=dark" alt="mystreak"/><br/>
