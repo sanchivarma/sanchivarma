@@ -46,7 +46,6 @@ Full Stack Software Development Enginner @ Wayfair -->
  that one's safety factor was determined by the lowest bidder on a government contract.
                                                                         - Alan Shephard
 *****************************************************************************************/
-
 {
   backend:        [Java (Spring/SpringBoot, Hibernate, Java Microservices),
                    PHP (Core, Laravel, Symfony, CodeIgniter, WordPress, PHP Microservices),
