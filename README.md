@@ -61,6 +61,8 @@ Full Stack Software Development Enginner @ Wayfair -->
                    KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
   architecture:   [Microservices, Event-driven, Design Patterns, System Design]
 }
+
+
 ```
 <!-- ## My Competitive Programming Profiles
 
