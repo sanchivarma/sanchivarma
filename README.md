@@ -16,11 +16,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3-->
 
+
 <p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px">
 	
 <img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;margin-top: 50px;" width="250" align="right" />
 </p>
+
 
 <!-- p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
