@@ -16,7 +16,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3-->
 
-
 <p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px">
 	
@@ -123,6 +122,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=dark" alt="mystreak"/><br/>
 ![sanchivarma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchivarma&theme=dark&layout=compact)
 -->
+
 
 <!-- Projects I am currently working on
 <summary>
