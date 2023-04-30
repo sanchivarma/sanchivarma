@@ -59,6 +59,7 @@ Full Stack Software Development Enginner @ Wayfair -->
                    HTML5, CSS3, Multi-Browser Extension Development,
                    KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
   architecture:   [Microservices, Event-driven, Design Patterns, System Design]
+  others: [Apache Kafka, Solr, Redis, Elastic Search]
 }
 
 
