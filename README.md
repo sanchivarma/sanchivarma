@@ -62,7 +62,6 @@ Full Stack Software Development Enginner @ Wayfair -->
   others: [Apache Kafka, Solr, Redis, Elastic Search]
 }
 
-
 ```
 <!-- ## My Competitive Programming Profiles
 
