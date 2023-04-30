@@ -15,7 +15,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3-->
 
-
 <p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px">
 
@@ -45,9 +44,10 @@ Full Stack Software Development Enginner @ Wayfair -->
                                                                         - Alan Shephard
 *****************************************************************************************/
 {
-  backend:        [Java (Spring/SpringBoot, Hibernate, Java Microservices), NodeJS,
+  backend:        [Java (Spring/SpringBoot, Hibernate, JPA, Java Microservices), NodeJS,
                    PHP (Core, Laravel, Symfony, CodeIgniter, WordPress, PHP Microservices),
                    C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Azure/Crystal Reports, Libraries, Microservices), 
+		   Python (Core, Django), 
                    C/C++/VC++, Python, Django],
   frontend:       [JavaScript/jQuery, ES6, React, Angular Redux, Nginx],
   database:       [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Laravel-Eloquent],
