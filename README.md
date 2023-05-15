@@ -27,6 +27,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
 </p -->
 
+
 <!-- I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/)
 Full Stack Software Development Enginner @ Wayfair -->
 ### 
