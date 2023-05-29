@@ -22,7 +22,6 @@
 <img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;margin-top: 50px;" width="250" align="right" />
 </p>
 
-
 <!-- p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
 </p -->
@@ -30,7 +29,7 @@
 
 <!-- I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/)
 Full Stack Software Development Enginner @ Wayfair -->
-### 
+
 
 <!-- Horizontal Line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
