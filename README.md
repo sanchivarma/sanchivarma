@@ -1,5 +1,5 @@
 <!-- 
-**sanchivarma/sanchivarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cosmospeck/cosmospeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Intro
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,13 +17,13 @@
 </h3-->
 
 <p>
-<img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+Varma+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px">
+<img align="left" src="https://readme-typing-svg.herokuapp.com?color=00B637&center=true&vCenter=true&multiline=true&width=600&height=85&lines=Hi+I'm+Sanchi+%F0%9F%91%8B;I'm+a+FullStack+Software+Engineer+at+Wayfair+GmbH;I+am+based+in+Berlin%2C+Germany" style="max-width: 100%;height: 80px; margin-right: 50px">
 	
 <img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;margin-top: 50px;" width="250" align="right" />
 </p>
 
 <!-- p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi+Varma;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
 </p -->
 
 <!-- I'm  [![Linkedin: sanchi-varma](https://img.shields.io/badge/-Sanchi_Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchi-varma/)](https://www.linkedin.com/in/sanchi-varma/)
@@ -34,7 +34,7 @@ Full Stack Software Development Enginner @ Wayfair -->
 
 <!-- Profile Views -->
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=sanchivarma&label=Profile%20views&color=0e75b6&style=plastic" alt="sanchivarma" /> 
+	<img src="https://komarev.com/ghpvc/?username=cosmospeck&label=Profile%20views&color=0e75b6&style=plastic" alt="cosmospeck" /> 
 </p>
 
 ```javascript
@@ -108,7 +108,7 @@ Full Stack Software Development Enginner @ Wayfair -->
   &emsp;
   <a href="https://www.linkedin.com/in/sanchivarma/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &emsp;	
-  <a href="https://github.com/sanchivarma"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/cosmospeck"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p>
@@ -116,9 +116,9 @@ Full Stack Software Development Enginner @ Wayfair -->
 </p>	
 
 <!-- **** Generic Github Stats
-![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=dark" alt="mystreak"/><br/>
-![sanchivarma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchivarma&theme=dark&layout=compact)
+![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=cosmospeck&show_icons=true&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmospeck&theme=dark" alt="mystreak"/><br/>
+![sanchivarma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmospeck&theme=dark&layout=compact)
 -->
 
 
@@ -128,21 +128,21 @@ Full Stack Software Development Enginner @ Wayfair -->
 </summary>
   
 <br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanchivarma&repo=TEST-Repo)](https://github.com/sanchivarma/TEstJava)>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cosmospeck&repo=TEST-Repo)](https://github.com/cosmospeck/TestJava)>
 <br />
 </details>
 End of projects I'm Working On -->
 
-<!-- img src="https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=gotham"/ -->
+<!-- img src="https://github-readme-stats.vercel.app/api?username=cosmospeck&show_icons=true&theme=gotham"/ -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=gotham" alt="mystreak"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
-<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
-<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmospeck&theme=gotham" alt="mystreak"/><img src="https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 
 <!--
-[![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/cosmospeck/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/cosmospeck/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/cosmospeck/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/cosmospeck/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cosmospeck/cosmospeck-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/cosmospeck/github-profile-summary-cards)
 -->
 
 <!-- /details -->
@@ -151,19 +151,19 @@ End of projects I'm Working On -->
 	<h4>Achievements</h4>
 </summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=sanchivarma&theme=darkhub&no-frame=true&column=7">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=cosmospeck&theme=darkhub&no-frame=true&column=7">
 </a>
 </details -->
 <br/>
 
 
-<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=sanchivarma&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=cosmospeck&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<!-- img src="https://activity-graph.herokuapp.com/graph?username=sanchivarma&theme=react-dark"/ -->
+<!-- img src="https://activity-graph.herokuapp.com/graph?username=cosmospeck&theme=react-dark"/ -->
 
 <!-- ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchivarma&layout=compact&theme=algolia" alt="sanchivarma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosmospeck&layout=compact&theme=algolia" alt="cosmospeck" /></a> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
