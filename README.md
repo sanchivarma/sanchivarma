@@ -132,7 +132,7 @@ End of projects I'm Working On -->
 
 <!-- img src="https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=gotham"/ -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=gotham" alt="mystreak"/> <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=gotham" alt="mystreak"/> <br/> <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
 <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
 <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 
