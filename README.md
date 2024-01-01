@@ -11,7 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-
 <!--h3 align="center">
   Hi I'm Sanchi Varma  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -45,20 +44,20 @@
 {
   backend:        [Java (Spring/SpringBoot, Hibernate, JPA, Java Microservices), NodeJS,
                    PHP (Core, Laravel, Symfony, CodeIgniter, WordPress, PHP Microservices),
-                   C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Azure/Crystal Reports, Libraries, Microservices), 
+                   C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Crystal Reports, Libraries, Microservices), 
 		   Python (Core, Django), 
-                   C/C++/VC++, Python, Django],
-  frontend:       [JavaScript/jQuery, ES6, React, Angular Redux, Nginx],
+                   C/C++/VC++, Django],
+  frontend:       [JavaScript/jQuery, EcmaScript (ES), React JS, Typescript, AngularJS, VueJS, Redux, Nginx],
   database:       [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Laravel-Eloquent],
   microservices:  [Kubernetes, Docker],
   cloud:          [Google Cloud Platform (GCP), Amazon Web Services (AWS), IIS Server],
   others:         [REST/SOAP/MVC, GraphQL, Apache Kafka, Apollo Cache,
-                   Subversion (SVN), Github
+                   Github, Gitlab, Subversion (SVN),
                    PHPUnit, NUnit, Jest, NUnit, TDD,
                    HTML5, CSS3, Multi-Browser Extension Development,
                    KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
-  architecture:   [Microservices, Event-driven, Design Patterns, System Design]
-  others: [Apache Kafka, Solr, Redis, Elastic Search]
+  architecture:   [Microservices, Event-driven design, Design Patterns, System Design]
+  others: [Apache Kafka, Apache Solr, Redis, Memcached, Elastic Search]
 }
 
 ```
