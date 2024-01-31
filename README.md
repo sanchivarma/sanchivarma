@@ -118,7 +118,6 @@
 ![sanchivarma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchivarma&theme=dark&layout=compact)
 -->
 
-
 <!-- Projects I am currently working on
 <summary>
   Projects I am currently working on
