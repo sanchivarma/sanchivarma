@@ -34,7 +34,6 @@
 	<img src="https://komarev.com/ghpvc/?username=sanchivarma&label=Profile%20views&color=0e75b6&style=plastic" alt="sanchivarma" /> 
 </p>
 
-
 ```javascript
 /****************************************************************************************
              It's a very sobering feeling to be up in space and realize 
