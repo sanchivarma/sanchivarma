@@ -112,7 +112,6 @@
 <p>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />  My Github Stats
 </p>	
-
 <!-- **** Generic Github Stats
 ![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchivarma&theme=dark" alt="mystreak"/><br/>
