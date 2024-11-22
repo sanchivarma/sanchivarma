@@ -23,6 +23,8 @@
 <img src="Images/hello-animated.gif" style="display: block;opacity: 1;width: 250px;margin-top: 50px;" width="250" align="right" />
 </p>
 
+
+
 <!-- p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Sanchi;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
 </p -->
