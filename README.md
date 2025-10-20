@@ -41,10 +41,6 @@
  that one's safety factor was determined by the lowest bidder on a government contract.
                                                                         - Alan Shephard
 *****************************************************************************************/
-/****************************************************************************************
- "It's a very sobering feeling to be up in space and realize that one's safety factor
-  was determined by the lowest bidder on a government contract." — Alan Shepard
-****************************************************************************************/
 {
   "backend": [
     "Java (Spring Boot, Spring, Hibernate, JPA, Microservices)",
