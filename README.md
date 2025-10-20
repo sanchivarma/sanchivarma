@@ -41,26 +41,79 @@
  that one's safety factor was determined by the lowest bidder on a government contract.
                                                                         - Alan Shephard
 *****************************************************************************************/
+/****************************************************************************************
+ "It's a very sobering feeling to be up in space and realize that one's safety factor
+  was determined by the lowest bidder on a government contract." — Alan Shepard
+****************************************************************************************/
 {
-  backend:        [Java (Spring/SpringBoot, Hibernate, JPA, Java Microservices), NodeJS,
-                   PHP (Core, Laravel, Symfony, CodeIgniter, WordPress, PHP Microservices),
-                   C# .NET (WCF/WPF/ASP.NET/WinApps/WinForms/DLLs/Crystal Reports, Libraries, Microservices), 
-		   Python (Core, Django), 
-                   C/C++/VC++, Django],
-  frontend:       [JavaScript/jQuery, EcmaScript (ES), React JS, Typescript, AngularJS, VueJS, Redux, Nginx],
-  database:       [MSSQL, MySQL, NoSQL, PostgreSQL, SQLite, MongoDB, Entity Framework, LINQ, Laravel-Eloquent],
-  microservices:  [Kubernetes, Docker],
-  cloud:          [Google Cloud Platform (GCP), Amazon Web Services (AWS), IIS Server],
-  others:         [REST/SOAP/MVC, GraphQL, Apache Kafka, Apollo Cache,
-                   Github, Gitlab, Subversion (SVN),
-                   PHPUnit, NUnit, Jest, NUnit, TDD,
-                   HTML5, CSS3, Multi-Browser Extension Development,
-                   KineticJS, FabricJS, CanvasJS, APIDocs/Swagger, Scrum, Agile Methodology], 
-  architecture:   [Microservices, Event-driven design, Design Patterns, System Design]
-  others: [Apache Kafka, Apache Solr, Redis, Memcached, Elastic Search]
+  "backend": [
+    "Java (Spring Boot, Spring, Hibernate, JPA, Microservices)",
+    "Node.js",
+    "PHP (Laravel, Symfony, CodeIgniter, WordPress)",
+    "C#/.NET (ASP.NET, WCF, WPF, WinForms)",
+    "Python (Django)",
+    "C/C++"
+  ],
+  "frontend": [
+    "JavaScript (ES6+), TypeScript",
+    "React, Redux",
+    "Vue, AngularJS (legacy)",
+    "HTML5, CSS3",
+    "Nginx"
+  ],
+  "datastores": [
+    "PostgreSQL, MySQL, MS SQL Server (T-SQL, Entity Framework, LINQ, Eloquent)",
+    "MongoDB, SQLite",
+    "Elasticsearch, Apache Solr",
+    "Redis, Memcached",
+    "InfluxDB"
+  ],
+  "eventing_streaming": [
+    "Apache Kafka"
+  ],
+  "apis_protocols": [
+    "REST, GraphQL, SOAP",
+    "API Docs / Swagger / OpenAPI"
+  ],
+  "devops_infra": [
+    "Kubernetes, Docker",
+    "AWS, GCP, IIS",
+    "CI/CD (Jenkins, Buildkite), SonarQube",
+    "Observability (Datadog, Kibana, Grafana, Chronograf)",
+    "PagerDuty, Backstage, ServiceNow"
+  ],
+  "ai_llm": [
+    "GitHub Copilot, Cursor",
+    "OpenAI API, Anthropic (Claude)",
+    "Prompt Engineering, Function Calling/Tools",
+  ],
+  "testing_quality": [
+    "JUnit, PHPUnit, NUnit, Jest",
+    "TDD/BDD, Code Coverage"
+  ],
+  "practices_architecture": [
+    "Microservices, Event-Driven Design",
+    "System Design, Design Patterns",
+    "Agile/Scrum, Jira",
+    "Security-first, Performance-aware"
+  ],
+  "legacy_maintenance_experience": [
+    "WinApps, DLLs, Crystal Reports",
+    "Browser Extension Dev (Firefox/Chrome)"
+  ],
+  "tooling": [
+    "GitHub, GitLab, SVN",
+    "Apollo Client/Cache"
+  ]
 }
-
 ```
+<!-- 
+"RAG (Elasticsearch/FAISS), Embeddings",
+    "LangChain / LlamaIndex (selective use)",
+    "Evaluation (Promptfoo/Ragas), Tracing (Langfuse)",
+    "Lightweight fine-tuning/LoRA (PEFT) — exposure"
+-->
+
 <!-- ## My Competitive Programming Profiles
 
 <p align="center">
