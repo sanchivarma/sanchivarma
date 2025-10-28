@@ -211,7 +211,6 @@ End of projects I'm Working On -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-
 <br/>
 <h4> You've reached the end of my profile ! Here's a joke : </h4>
 <img align="left" src="https://geekageddon-api.vercel.app/api/jokes?theme=onedark&borderAnimation=dash" alt="Jokes Card"  align="left" />
@@ -221,6 +220,10 @@ End of projects I'm Working On -->
 <p>Sign the guestbook ?</p>
 <a href="https://github.com/sanchivarma/sanchivarma/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div -->
+<br/><br/><br/>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sanchivarma)
+<br/><br/><br/>
 
+<a href="https://www.buymeacoffee.com/sanchivarma" target="_blank">
+	<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+</a>
