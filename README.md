@@ -11,7 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-
 <!--h3 align="center">
   Hi I'm Sanchi Varma  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -47,13 +46,11 @@
     "Node.js",
     "PHP (Laravel, Symfony, CodeIgniter, WordPress)",
     "C#/.NET (ASP.NET, WCF, WPF, WinForms)",
-    "Python (Django)",
-    "C/C++"
+    "Python (Django), C/C++"
   ],
   "frontend": [
     "JavaScript (ES6+), TypeScript",
-    "React, Redux",
-    "Vue, AngularJS (legacy)",
+    "React, Redux, Vue, AngularJS ",
     "HTML5, CSS3",
     "Nginx"
   ],
@@ -224,3 +221,6 @@ End of projects I'm Working On -->
 <p>Sign the guestbook ?</p>
 <a href="https://github.com/sanchivarma/sanchivarma/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div -->
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sanchivarma)
+
