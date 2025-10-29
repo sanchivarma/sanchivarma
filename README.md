@@ -213,7 +213,7 @@ End of projects I'm Working On -->
 
 <br/>
 <h4> You've reached the end of my profile ! Here's a joke : </h4>
-<img align="left" src="https://geekageddon-api.vercel.app/api/jokes?theme=github&borderAnimation=rainbow-ants" alt="Jokes Card"  align="left" />
+<img align="left" src="https://geekageddon-api.vercel.app/api/jokes?theme=github&borderAnimation=ants" alt="Jokes Card"  align="left" />
 <img src="Images/gandalf_laugh.gif" style="width: 300px;display: block;opacity: 1;transform: rotateY(180deg);" width="300" align="left"/>
 <!-- br/>
 <div align="center">
