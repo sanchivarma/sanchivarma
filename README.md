@@ -224,6 +224,8 @@ End of projects I'm Working On -->
 
 <br/><br/><br/>
 
+Thank's for checking out the profile. A coffee’s always welcome ☕
+
 <a href="https://www.buymeacoffee.com/sanchivarma" target="_blank">
 	<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
 </a>
