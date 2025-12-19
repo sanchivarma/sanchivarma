@@ -36,7 +36,7 @@
 
 <p>
 ⚡ Portfolio : https://sanchivarma.com  <br/>
-🌱 I’m currently developing : https://geekageddon.com
+🌱 I’m currently developing : https://geekageddon.com  <br/>
 📫 How to reach me: contact@sanchivarma.com
 </p>
  
