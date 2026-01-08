@@ -37,7 +37,6 @@
 <p>
 ⚡ Portfolio : https://sanchivarma.com  <br/>
 🌱 I’m currently developing : https://geekageddon.com  <br/>
-🌱 I’m currently developing : https://agentribe.ai [WIP]  <br/>
 <!-- 📫 How to reach me: <a href="mailto:contact@sanchivarma.com">contact@sanchivarma.com</a> -->
 </p>
  
@@ -165,7 +164,9 @@
 </p>
 
 <p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" />  My Github Stats
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 30px;" width="30" /> 
+	My Github Stats
 </p>	
 <!-- **** Generic Github Stats
 ![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=dark)
@@ -185,13 +186,10 @@
 End of projects I'm Working On -->
 
 <!-- img src="https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=gotham"/ -->
-
 <br/> 
 	<img src="https://geekageddon-api.vercel.app/gitstreak?user=sanchivarma&borderAnimation=dots&showgraph=true"/>
-<br/>
-	<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
-<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/><img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
-
+<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>   <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/>   <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 <!--
 [![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/sanchivarma/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/sanchivarma/github-profile-summary-cards) [![](https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/sanchivarma/github-profile-summary-cards)
