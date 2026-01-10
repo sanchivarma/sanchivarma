@@ -170,7 +170,7 @@
 </p>	
 
 <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>   <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
-<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/>   <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/> <img src="https://geekageddon-api.vercel.app/gitstreak?user=sanchivarma&borderAnimation=scan&showgraph=true&theme=terminal"/>
+<img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"/>   <img src="https://raw.githubusercontent.com/sanchivarma/sanchivarma-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"/> <img src="https://geekageddon-api.vercel.app/gitstreak?user=sanchivarma&borderAnimation=scan&theme=terminal"/>
 
 <!-- **** Generic Github Stats
 ![sanchivarma's github stats](https://github-readme-stats.vercel.app/api?username=sanchivarma&show_icons=true&theme=dark)
