@@ -238,3 +238,7 @@ End of projects I'm Working On -->
 	<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
 </a>
 -->
+---
+
+If you liked my profile and would like to explore ideas to spruce up your GitHub profile as well, do visit:  
+https://github.com/sanchivarma/geekup-github-profile/blob/main/README.md
