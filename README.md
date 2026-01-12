@@ -240,5 +240,5 @@ End of projects I'm Working On -->
 -->
 ---
 
-If you liked my profile and would like to explore ideas to spruce up your GitHub profile as well, do visit:  
-https://github.com/sanchivarma/geekup-github-profile/blob/main/README.md
+If you liked my profile and would like to spruce up your GitHub profile as well, visit:  
+[GeekUp GitHub Profile README](https://github.com/sanchivarma/geekup-github-profile/blob/main/README.md)
