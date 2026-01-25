@@ -34,6 +34,7 @@
 	<img src="https://komarev.com/ghpvc/?username=sanchivarma&label=Profile%20views&color=0e75b6&style=plastic" alt="sanchivarma" /> 
 </p>
 
+<br />
 <p>
 ⚡ Portfolio : https://sanchivarma.com  <br/>
 🌱 I’m currently developing : https://geekageddon.com  <br/>
